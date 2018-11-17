@@ -1,7 +1,7 @@
 # Tarea_3
-Problema: Realizar el desayuno de Amaru.
+Problema: Realizar el desayuno de Amaru
 Elementos: Café, Pan, Palta, Panqueques, Manjar, Naranjas, Aceite (*opcional), Aliños (*opcional)
-           Cocina, Sartén, Fósforos, Hervidor/Tetera, Vaso, Taza/Tazón, Exprimidor, Platos, Cuchillo, Tenedor, Cuchara(ita)
+Cocina, Sartén, Fósforos, Hervidor/Tetera, Vaso, Taza/Tazón, Exprimidor, Platos, Cuchillo, Tenedor, Cuchara(ita)
 Acciones: Preparar, Rellenar, Servir, Moler, Calentar, Calentar sartén (1), Cortar
 Pasos de ejecución: 
 <INICIO>
