@@ -14,7 +14,7 @@ Pasos de ejecución:
 5. Moler la palta con un tenedor en un plato limpio, sin cáscara ni cuesco, aliñando a gusto
 6. Calentar la cantidad de agua necesaria para el café en hervidor o tetera
 7. Calentar el sartén sobre el fuego de la cocina previamente prendido con un fósforo
-8. Preperar la cantidad de mezcla necesaria para una porción de panqueques a gusto
+8. Preparar la cantidad de mezcla necesaria para una porción de panqueques a gusto
 9. Preparar los panqueques sobre el sartén caliente, con aceite si desea
 10. Calentar el pan
 11. Rellenar con manjar los panqueques aún calientes utilizando un cuchillo
