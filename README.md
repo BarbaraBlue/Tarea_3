@@ -1,8 +1,10 @@
 # Tarea_3
+
 Problema: Realizar el desayuno de Amaru
-* Elementos: Café, Pan, Palta, Panqueques, Manjar, Naranjas, Aceite (*opcional), Aliños (*opcional)
+Elementos: Café, Pan, Palta, Panqueques, Manjar, Naranjas, Aceite (*opcional), Aliños (*opcional)
 Cocina, Sartén, Fósforos, Hervidor/Tetera, Vaso, Taza/Tazón, Exprimidor, Platos, Cuchillo, Tenedor, Cuchara(ita)
-* Acciones: Preparar, Rellenar, Servir, Moler, Calentar, Calentar sartén (1), Cortar
+Acciones: Preparar, Rellenar, Servir, Moler, Calentar, Calentar sartén (1), Cortar
+
 Pasos de ejecución: 
 <INICIO>
 1. Cortar por la mitad, con un cuchillo, las naranjas necesarias para un vaso de jugo
